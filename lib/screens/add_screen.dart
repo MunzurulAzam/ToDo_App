@@ -172,7 +172,7 @@ class _AddScreenState extends State<AddScreen> {
                                   ),
                                   controller: myCategoryController,
                                   decoration: const InputDecoration(
-                                    hintText: 'Task Category Title',
+                                    hintText: 'Category Title',
                                   ),
                                 ),
                               ],
